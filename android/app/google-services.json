@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "99223073981",
+    "project_id": "gestion-pedidos-online",
+    "storage_bucket": "gestion-pedidos-online.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99223073981:android:4b5127e1f3a66faf6d73d4",
+        "android_client_info": {
+          "package_name": "com.example.gestion_pedidos_online"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe-DdbKKpCQO1NhWbjWpXV8nlJpFL0apQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
